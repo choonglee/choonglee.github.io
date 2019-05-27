@@ -106,15 +106,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Choong Lee"
+  avatar           : "https://avatars2.githubusercontent.com/u/30716566?s=460&v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A person."
+  location         : "Kor"
+  email            : "choonglee0924@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:choonglee0924@gmail.com # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
