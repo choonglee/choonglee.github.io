@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Choong Github"
+title                    : "Choong"
 title_separator          : " : "
 name                     : "Choong Lee"
 description              : "Bueno"
@@ -107,14 +107,14 @@ analytics:
 # Site Author
 author:
   name             : "Choong Lee"
-  avatar           : "https://avatars2.githubusercontent.com/u/30716566?s=460&v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A person."
-  location         : "Kor"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : # ""
+  location         : # ""
   email            : "choonglee0924@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:choonglee0924@gmail.com # url: mailto:your.name@email.com
+      url: # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
